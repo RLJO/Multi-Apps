@@ -374,3 +374,11 @@
 	path = OCA/oca-custom
 	url = https://github.com/RLCO/oca-custom.git
 	branch = 12.0
+[submodule "OCA/l10n-italy"]
+	path = OCA/l10n-italy
+	url = https://github.com/RLCO/l10n-italy.git
+	branch = 12.0
+[submodule "OCA/e-commerce"]
+	path = OCA/e-commerce
+	url = https://github.com/RLCO/e-commerce.git
+	branch = 12.0
